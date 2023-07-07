@@ -102,7 +102,7 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Demo
 
-- [Live Deployment]([https://carsminiproject.000webhostapp.com/](https://carrental-system.000webhostapp.com/))
+- [Live Deployment]((https://carrental-system.000webhostapp.com/))
 
 
 ## Authors 
